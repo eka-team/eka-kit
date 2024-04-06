@@ -1,5 +1,5 @@
 {
-  "name": "eka-kit",
+  "name": "@khdev/utils",
   "version": "0.0.1",
   "description": "I'll add later.",
   "main": "./src/index.js",
@@ -24,8 +24,6 @@
     "eka-kit"
   ],
   "devDependencies": {
-    "@changesets/cli": "^2.27.1",
-    "tsup": "^8.0.2",
     "typescript": "^5.4.3"
   }
 }
